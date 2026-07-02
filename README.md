@@ -48,7 +48,7 @@ I hope you find it useful, and I wish you a lot of fun!
 
 ### Option 1: Local setup (more instructive)
 
-This is the same setup that we used in Intermezzo 0. I report it here for convenience:
+This is the same setup that we used in Intermezzo 0, and the one shown throughout the course videos. I report it here for convenience:
 
 1. Install [Visual Studio Code](https://code.visualstudio.com) and the **Python** and **Jupyter** extensions (both published by Microsoft)
 2. Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html) with all default options, then reopen VSCode
@@ -63,6 +63,8 @@ This is the same setup that we used in Intermezzo 0. I report it here for conven
    ```
 5. In VSCode: `Ctrl+Shift+P` → **Python: Select Interpreter** → choose the one that shows `IntroductionToPython` in the path
 6. Clone this repository and open the chapter folders in VSCode
+
+> **Note:** this is just the setup used in the videos, for consistency. Any other combination (PyCharm, `venv`/`virtualenv`, etc.) works just as well. Use whatever tools you're already comfortable with, or whatever you'd like to learn. The Python code itself doesn't change :)
 
 ### Option 2: Google Colab (no setup required)
 
