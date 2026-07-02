@@ -27,8 +27,8 @@ I hope you find it useful, and I wish you a lot of fun!
 | 1  | `ch00_brief_overview_of_python`    | Chapter 0: A Brief Overview of Python *(slides only, no notebook)* |
 | 2  | `int0_practical_environment`       | Intermezzo 0: The Practical Environment |
 | 3  | `ch01_python_as_a_calculator`      | Chapter 1: Python as a Calculator |
-| 4  | `int1_booleans_in_depth`           | Intermezzo 1: Booleans in Depth |
-| 5  | `ch02_control_flow`                | Chapter 2: Control Flow |
+| 4  | `ch02_control_flow`                | Chapter 2: Control Flow |
+| 5  | `int1_booleans_in_depth`           | Intermezzo 1: Booleans in Depth |
 | 6  | `int2_mutability`                  | Intermezzo 2: Mutability |
 | 7  | `ch03_data_structures`             | Chapter 3: Built-in Data Structures |
 | 8  | `ch04_functions_basics`            | Chapter 4: Functions — Basics |
