@@ -1,5 +1,5 @@
 # Chapter 11 — References
-### Modern Introduction to Python from scratch
+### Introduction to Modern Python
 
 ---
 
