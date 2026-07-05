@@ -1,6 +1,6 @@
-# Modern Python: A Practical Introduction from Scratch
+# Introduction to Modern Python
 
-Public repository for the *Modern Python: A Practical Introduction from Scratch* course.
+Public repository for the *Introduction to Modern Python* course.
 
 **Instructor:** Pietropaolo Frisoni. Computational Scientist, Quantum Software Engineer.
 
